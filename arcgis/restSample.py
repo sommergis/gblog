@@ -17,9 +17,9 @@ URL = "http://server.arcgisonline.com/ArcGIS/rest/services/Demographics/"
 def getLayerInfoFromREST(url, _serviceName):
     ''' Liest die Layer-IDs des ArcGIS REST Dienstes aus
         der angegebenen URL und liefert eine Liste mit den
-        Layer-IDs (Strings) und den Layernamen zur�ck.
+        Layer-IDs (Strings) und den Layernamen zurueck.
 
-        Ben�tigtes Format der URL:
+        Benoetigtes Format der URL:
         http://<host>/ArcGIS/rest/services/<folder>/'''
 
     serviceName = _serviceName
