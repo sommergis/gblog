@@ -1,7 +1,7 @@
 # -*- coding: latin-1 -*-
 
-# Liest die LayerIDs eines ArcGIS REST Services
-# ein und gibt diese aus.
+# Liest die LayerIDs und die Namen eines ArcGIS REST Services
+# und gibt diese aus.
 # Johannes Sommer, 12.01.2011
 
 try:
