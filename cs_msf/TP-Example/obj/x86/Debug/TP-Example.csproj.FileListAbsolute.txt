@@ -1,0 +1,7 @@
+D:\dev\TP-Example\TP-Example\bin\Debug\TP-Beispiel.exe.config
+D:\dev\TP-Example\TP-Example\obj\x86\Debug\TP-Beispiel.exe
+D:\dev\TP-Example\TP-Example\obj\x86\Debug\TP-Beispiel.pdb
+D:\dev\TP-Example\TP-Example\bin\Debug\TP-Beispiel.exe
+D:\dev\TP-Example\TP-Example\bin\Debug\TP-Beispiel.pdb
+D:\dev\TP-Example\TP-Example\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\dev\TP-Example\TP-Example\bin\Debug\tp.accdb

@@ -1,0 +1,9 @@
+D:\ungesicherte_Zwischenablage\dev\TP-Beispiel\TP-Beispiel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ungesicherte_Zwischenablage\dev\TP-Beispiel\TP-Beispiel\bin\Debug\TP-Beispiel.exe.config
+D:\ungesicherte_Zwischenablage\dev\TP-Beispiel\TP-Beispiel\bin\Debug\TP-Beispiel.exe
+D:\ungesicherte_Zwischenablage\dev\TP-Beispiel\TP-Beispiel\bin\Debug\TP-Beispiel.pdb
+D:\ungesicherte_Zwischenablage\dev\TP-Beispiel\TP-Beispiel\obj\x86\Debug\TP-Beispiel.exe
+D:\ungesicherte_Zwischenablage\dev\TP-Beispiel\TP-Beispiel\obj\x86\Debug\TP-Beispiel.pdb
+D:\dev\TP-Beispiel\TP-Beispiel\bin\Debug\TP-Beispiel.exe.config
+D:\dev\TP-Beispiel\TP-Beispiel\obj\x86\Debug\TP-Beispiel.exe
+D:\dev\TP-Beispiel\TP-Beispiel\obj\x86\Debug\TP-Beispiel.pdb
