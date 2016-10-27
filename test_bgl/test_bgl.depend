@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1475872771 source:/home/hahne/dev/test_bgl/main.cpp
+	<vector>
+	<map>
+	<string>
+	"lemon/smart_graph.h"
+	"lemon/dijkstra.h"
+
+1477425050 source:/home/hahne/dev/gblog/test_bgl/main.cpp
+	<vector>
+	<map>
+	<string>
+	<iostream>
+	"boost/graph/adjacency_list.hpp"
+	"boost/graph/dijkstra_shortest_paths.hpp"
+
+1475951695 source:/home/hahne/dev/gblog/test_bgl/lemontest.cpp
+	"lemontest.h"
+
+1475951695 /home/hahne/dev/gblog/test_bgl/lemontest.h
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1475872771 source:/home/hahne/dev/test_lemon/main.cpp
+	<vector>
+	<map>
+	<string>
+	"lemon/smart_graph.h"
+	"lemon/dijkstra.h"
+
+1476223481 source:/home/hahne/dev/gblog/test_lemon/main.cpp
+	<vector>
+	<map>
+	<string>
+	"lemon/smart_graph.h"
+	"lemon/dijkstra.h"
+	"lemon/static_graph.h"
+
+1475951695 source:/home/hahne/dev/gblog/test_lemon/lemontest.cpp
+	"lemontest.h"
+
+1475951695 /home/hahne/dev/gblog/test_lemon/lemontest.h
+
