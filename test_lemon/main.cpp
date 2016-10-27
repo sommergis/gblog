@@ -86,16 +86,16 @@ Graph
        but dest must be part of the SPT and
        an orig node must not be a dest node */
     std::vector<lemon::SmartDigraph::Node> path;
-    double cost = 0;
     for (lemon::SmartDigraph::Node v = endN; v != startN; v = spt.predNode(v))
     {
       if (v != lemon::INVALID && spt.reached(v)) //special LEMON node constant
       {
          path.push_back(v);
-         cost += spt.dist(v); //add distance from dest to each predecessor in spt
       }
     }
     path.push_back(startN);
+
+    double cost = spt.dist(endN);
 
     //print out the path with reverse iterator
     std::cout << "Path from " << " to " << " is: " << std::endl;
